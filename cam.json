@@ -1,0 +1,43 @@
+[   {
+    "modelo": "S10",
+    "marca": "Chevrolet",
+    "precio": 10000,
+    "imagen": "https://www.chevrolet.com.ar/content/dam/chevrolet/mercosur/argentina/espanol/index/pickups-and-trucks/2021-s10-cd/01-images/colorizer/s10-cab-dupla-dark-shadow.jpg?imwidth=960"
+  },
+  {
+    "modelo": "Amarok v6",
+    "marca": "Volkswagen",
+    "precio": 12000,
+    "imagen": "https://fotos.perfil.com/2020/02/27/trim/1280/720/comenzo-la-preventa-de-la-vw-amarok-v6-258-cv-920101.jpg"
+  },
+  {
+    "modelo": "Ram 2500",
+    "marca": "Ram",
+    "precio": 20000,
+    "imagen": "https://www.ram.com.ar/content/dam/cross-regional/latam/ramtrucks/es_ar/ram-2500/jellybeans/ram_JB_flat_BilletSilver.png.img.1440.png"
+  },
+  {
+    "modelo": "Ford - 150",
+    "marca": "Ford",
+    "precio": 15000,
+    "imagen": "https://build.ford.com/dig/Ford/F-150%20F-150/2023/HD-TILE/Image%5B%7CFord%7CF-150%20F-150%7C2023%7C1%7C1.%7C801A.W1R.145.PUM.LSC.88R.89B.A5GAA.TGA.SS5.573.924.435.57Q.168.RCA.BLDAC.55D.SPP.91X.61P.53B.55B.CCAB.CLFGP.CLMHN.64B.T7R.59R.AWD.998.67T.413.655.66C.50N.91B.76R.F150.471.SRS.588.50M.524.62W.763.59S.85P.77R.44G.XL4.LEA.%5D/EXT/1/vehicle.png"
+  },
+  {
+    "modelo": "Toyota Hilux",
+    "marca": "Toyota",
+    "precio": 10000,
+    "imagen": "https://acroadtrip.blob.core.windows.net/catalogo-imagenes/xl/RT_V_306e84f8dec84ba4ad1f3372499ac72e.jpg"
+  },
+  {
+    "modelo": "Ford Ranger",
+    "marca": "Ford",
+    "precio": 12000,
+    "imagen": "https://www.ford.com.ar/content/dam/Ford/website-assets/latam/ar/nameplate/Nueva-ranger/2023/models/limited/colorizer/blanco-oxford/far-nueva-ranger-color-limited-blanco-oxford.jpg.dam.full.high.jpg/1687455643495.jpg"
+  },
+  {
+    "modelo": "Volkswagen",
+    "marca": "Volkswagen",
+    "precio": 8000,
+    "imagen": "https://vazquezauto.com.ar/wp-content/uploads/2021/12/0-Portada-41.jpg"
+  }
+]
