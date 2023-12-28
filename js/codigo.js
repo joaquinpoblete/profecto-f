@@ -44,11 +44,12 @@ class Camioneta {
   const camionetaDiv =  document.getElementById("camionetaDiv");
   
   // BOTONES
-  const mostrarCamionetaBtn = document.getElementById("mostrarCamionetaBtn");
-  mostrarCamionetaBtn.addEventListener("click", () => {mostrarCamioneta(camionetaEnVenta, "En este momento contamos con "+camionetaEnVenta.length+" camionetas disponibles:")})
+  const mostrarProductosBtn = document.getElementById("mostrarCamionetaBtn");
+  mostrarProductosBtn.addEventListener("click", () => {mostrarCamioneta(camionetaEnVenta, "En este momento contamos con "+camionetaEnVenta.length+" camionetas disponibles:")})
   
   const buscarPrecioMaximoBtn = document.getElementById("buscarPrecioMaximoBtn");
   buscarPrecioMaximoBtn.addEventListener("click", buscarPrecioMaximoCrearInput);
+  console.log(error)
   
   const ordenarBarataACaraBtn = document.getElementById("ordenarBarataACaraBtn");
   ordenarBarataACaraBtn.addEventListener("click", ordenarBarataACara);
